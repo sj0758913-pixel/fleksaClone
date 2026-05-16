@@ -1,0 +1,563 @@
+*{
+   margin: 0;
+   padding: 0;
+   /* box-sizing: border-box; */
+}
+.navimg img{
+  width: 250px;
+  padding: 20px 0 20px 100px;
+}
+.navbar-toggler {
+  border-color: black;        
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='black' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.ggg{
+  background-color: black;
+}
+
+
+
+.menu li{
+  padding-right: 40px;
+  font-size: large;
+  font-weight: bold;
+  
+  
+}
+/* nav end */
+/* home css start */
+.div1{
+  padding-top: 80px;
+}
+.Ha{
+  text-align: justify;
+}
+.Ha p{
+   font-size: x-large;
+   color: black;
+   margin-right: 20px;
+}
+.Haa img{
+  width: 600px;
+  align-items: center;
+}
+.Ha1{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.size{
+  width: 40%;
+  height: 60px;
+}
+.Hb p{
+  padding: 40px 100px;
+  font-size: 22px;
+  line-height: 30px;
+}
+.Hb h1{
+  background: rgb(26, 25, 25);
+  margin: 0 200px;
+  color: white;
+  font: 4rem sans-serif;
+  border-radius: 20px;
+  padding: 10px;
+}
+.Hdi{
+  margin-top: 60px;
+}
+.di1 img{
+    width: 100%;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    margin-left: 12px;
+}
+.di2{
+  padding: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+}
+.di2 h2{
+  text-align: justify;
+  font-weight: bold;
+  font-size: 40px;
+
+}
+.di2 h3{
+  padding-top: 20px;
+}
+.di2 p{
+  color: black;
+  padding-top: 20px;
+  font-size: large;
+}
+.di11{
+    padding: 50px;
+  border-bottom-left-radius: 50px;
+  border-top-left-radius: 50px;
+
+}
+.di11 h2{
+  text-align: justify;
+  font-weight: bold;
+  font-size: 40px;
+}
+.di11 h3{
+  padding-top: 20px;
+}
+.di11 p{
+  color: black;
+  padding-top: 20px;
+  font-size: large;
+}
+.di22 img{
+  width: 100%;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+  margin-left: -12px;
+}
+.Hc{
+  margin-top: 50px;
+}
+.Hc1{
+  background-color: yellow;
+  padding: 10px;
+  margin: 0 150px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.Hc h2{
+  font-weight: bold;
+}
+.Hc p{
+  margin: 0 30px;
+  font-size: larger;
+  word-spacing: 5px;
+}
+.Hc button{
+  background-color: black;
+  color: white;
+  width: 250px;
+  height: 60px;
+
+}
+.Hc2{
+  background-color: yellow;
+  padding: 5px;
+  margin: 0 350px;
+  margin-top: 100px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+/* home css end */
+/* Ordersys start */
+.z{
+ padding-top: 80px;
+ color: rebeccapurple;
+}
+
+/* Login start */
+.La{
+   padding: 55px 0 0 380px;
+}
+.ll{
+  color: white;
+  font-size: 40px;
+}
+.lll img{
+  width: 250px;
+}
+.llll{
+  background-color: rgb(30, 4, 59);
+  margin: 0 27px;
+
+}
+.llll p{
+  padding: 20px;
+}
+
+/* Login end */
+
+/* contact css start */
+.Za1{
+  background-color: black;
+  color: white;
+  margin-right: 90px;
+  font-size: 60px;
+  
+}
+.Za h1{
+  font-size: 60px;
+  
+}
+.Za p{
+  font-size: 32px;
+  color: black;
+}
+.Zb p{
+  padding: 40px 100px;
+  font-size: 22px;
+  line-height: 30px;
+}
+.Zb h1{
+  background: rgb(26, 25, 25);
+  margin: 0 500px;
+  color: white;
+  font: 4rem sans-serif;
+  border-radius: 20px;
+  padding: 10px;
+}
+.Zc{
+  margin-top: 50px;
+}
+
+.Zc1{
+  background-color: yellow;
+  padding: 10px;
+  margin: 0 150px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.Zc h2{
+  font-weight: bold;
+}
+.Zc p{
+  margin: 0 30px;
+  font-size: larger;
+  word-spacing: 5px;
+}
+.Zc button{
+  background-color: black;
+  color: white;
+  width: 250px;
+  height: 60px;
+
+}
+.Zc2{
+  background-color: yellow;
+  padding: 5px;
+  margin: 0 350px;
+  margin-top: 100px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.Zd{
+  background-color: rgb(27, 18, 2);
+  padding: 30px;
+  margin-top: 40px;
+}
+.Zd1{
+  text-align: justify;
+  font-style: inherit;
+  padding-top: 50px;
+}
+.Zd2 img{
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px ;
+}
+
+
+/* contact css end */
+/* blogs css start */
+.a{
+  font-size: 78px;
+  background-color: black;
+  color: white;
+  margin: 0 480px;
+  border-radius: 20px;
+}
+.aa{
+  font-size: 78px;
+}
+.aaa{
+  background: url(https://fleksa.com/wp-content/uploads/2025/02/Untitled-design-53.jpg);
+  width: 80%;
+  /* height: 500px; */
+  background-size: cover;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+.aaa h3{
+  padding: 400px 0 100px 0;
+  font-size: x-large;
+  color: white;
+}
+.b{
+  font-size: 70px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-top: 40px;
+}
+.bb button{
+  margin: 0 20px;
+  background-color: white;
+  color: black;
+}
+.c{
+  padding-top: 30px;
+}
+.img1{
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.cc{
+  font-size: 24px;
+  padding-top: 50px;
+  padding-left: 20px;
+  padding-right: 60px;
+  font-weight: bolder;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ccc{
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+/* blogs end */
+
+/* footer start */
+.footback{
+  margin-top: 50px;
+  background: url(https://fleksa.com/wp-content/uploads/2024/11/66906616a3386969b314ad5c_footer_bg-scaled.jpg);
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+.Fheading{
+  padding-top: 60px;
+  padding-left: 70px;
+}
+.footback button{
+  margin: 20px 0 150px 70px;
+  height: 50px;
+}
+.foot{
+  background-color: rgb(26, 11, 1);
+  border-radius: 30px;
+  padding: 50px 50px;
+  
+}
+.footimg{
+  width: 150px;
+}
+.foot h4,p{
+  color: white;
+}
+.foot h4{
+  font-size: medium;
+  font-weight: bold;
+}
+
+/* footer end */
+
+@media (max-width: 768px) {
+    .navimg img {
+        width: 150px; 
+        padding: 10px; 
+    }
+    .menu li {
+        padding: 10px 15px; 
+        font-size: small;
+    }
+
+    /* Home Section Changes */
+    .div1 {
+        padding-top: 40px;
+    }
+    .Ha p {
+        font-size: large;
+        margin-right: 0;
+        text-align: left; /* Text align change kiya */
+    }
+    .Haa img {
+        width: 100%; /* Image ko full width diya */
+    }
+    .Ha1 {
+        padding: 15px;
+        border-radius: 10px;
+    }
+    .size {
+        width: 80%; /* Button size badhaya */
+        height: 50px;
+    }
+    .Hb p {
+        padding: 20px; /* Padding kam kiya */
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .Hb h1 {
+        margin: 0 20px; /* Margin kam kiya */
+        font-size: 2rem; /* Font size chhota kiya */
+        padding: 10px;
+    }
+    .Hdi {
+        margin-top: 30px;
+    }
+    
+    /* Content Blocks (di1/di2, di11/di22) - Assuming these are in a flex/grid and need stacking */
+    /* Agar aapne in blocks ko side-by-side rakha hai, toh media query ke bahar display: flex; ya grid; use kiya hoga.
+       Phone par inko stack karne ke liye inke parent container par changes kiye jaa sakte hain, ya in elements ko full width de sakte hain. */
+    .di1 img{
+        /* Phone par full width */
+        width: 100%;
+        border-radius: 20px 20px 0 0 !important;
+        margin-left: -1px !important;
+    }
+    .di22 img{
+       width: 100%;
+        border-radius: 0 0 20px 20px !important;
+         margin-left: 1px !important;
+    }
+    .di2, .di11 {
+        padding: 20px; /* Padding kam kiya */
+        border-radius: 0 0 20px 20px !important; /* Mobile par neeche ki taraf border-radius */
+    }
+
+    .di2 h2, .di11 h2 {
+        font-size: 30px;
+        text-align: left;
+    }
+    .di2 p, .di11 p {
+        font-size: medium;
+    }
+    
+    .Hc {
+        margin-top: 30px;
+    }
+    .Hc1 {
+        margin: 0 20px; /* Margin kam kiya */
+    }
+    .Hc p {
+        margin: 0 15px;
+        font-size: medium;
+        word-spacing: normal;
+    }
+    .Hc button {
+        width: 200px;
+        height: 50px;
+    }
+    .Hc2 {
+        margin: 50px 20px 0 20px; /* Margin kam kiya aur upar se space */
+    }
+
+    /* Login Section Changes */
+    .La {
+        padding: 30px 20px; /* Padding kam kiya aur center mein laane ki koshish */
+    }
+    .ll {
+        font-size: 30px;
+    }
+    .lll img {
+        width: 150px;
+    }
+    .llll {
+        margin: 0;
+    }
+    .llll p {
+        padding: 15px;
+    }
+
+    /* Contact Section Changes */
+    .Za1 {
+        margin-right: 0;
+        font-size: 40px;
+    }
+    .Za h1 {
+        font-size: 40px;
+    }
+    .Za p {
+        font-size: 24px;
+    }
+    .Zb p {
+        padding: 20px;
+        font-size: 18px;
+    }
+    .Zb h1 {
+        margin: 0 20px;
+        font-size: 2rem;
+    }
+    .Zc1 {
+        margin: 0 20px;
+    }
+    .Zc p {
+        margin: 0 15px;
+    }
+    .Zc button {
+        width: 200px;
+    }
+    .Zc2 {
+        margin: 50px 20px 0 20px;
+    }
+    .Zd {
+        padding: 15px;
+    }
+    .Zd1 {
+        padding-top: 20px;
+    }
+    .Zd2 img {
+        /* Mobile par full width */
+        width: 100%;
+        border-radius: 0;
+    }
+    
+    /* Blogs Section Changes */
+    .a {
+        font-size: 40px;
+        margin: 0 20px;
+    }
+    .aa {
+        font-size: 40px;
+    }
+    .aaa {
+        width: 95%;
+        /* height: 300px; */ 
+        background-position: center;
+    }
+    .aaa h3 {
+        padding: 150px 0 50px 0; /* Padding adjust kiya */
+        font-size: large;
+    }
+    .b {
+        font-size: 40px;
+        padding-top: 20px;
+    }
+    .bb button {
+        margin: 5px;
+        font-size: small;
+        padding: 8px;
+    }
+    .cc {
+        font-size: 18px;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .ccc {
+        margin-left: 10px;
+    }
+
+    /* Footer Changes */
+    .footback {
+        background-position: center;
+        border-radius: 20px 20px 0 0;
+    }
+    .Fheading {
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+    .footback button {
+        margin: 10px 0 50px 20px;
+        height: 40px;
+    }
+    .foot {
+        padding: 30px 20px;
+    }
+    .footimg {
+        width: 100px;
+    }
+    .foot h4, .foot p {
+        font-size: small;
+    }
+}
