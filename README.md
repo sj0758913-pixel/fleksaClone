@@ -6,13 +6,13 @@ This repository contains my web development project where I recreated the Fleksa
 You can view the live project here:
 https://samyakfleksa.netlify.app/
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 Markup: HTML5
 Styling: CSS3 & Bootstrap
 Framework: React.js (Component-based UI)
 Deployment: Netlify
 
-📌 Key Highlights
+📌 Key Highlights:
 Built a responsive restaurant website clone inspired by Fleksa
 Created reusable React components for better project structure
 Added interactive buttons and improved mobile responsiveness
